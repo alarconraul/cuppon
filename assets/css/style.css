@@ -1,0 +1,79 @@
+
+body{
+text-align: left; 
+margin: 0;
+font-size: initial;
+font-family: 'Roboto'
+}
+.greenbg{
+    background-color:#28A745;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.greenbg img{
+    height: 70px;
+    width: 240px;
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+    color: #212529;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 40px;   
+}
+
+h2{
+    font-size: 23px;
+    font-weight: 300;
+}
+h3{
+    font-size: 17px;
+    font-weight: 300;
+}
+.oferta {
+    color: #28A745!important;
+    float: right;
+    font-size: 25px;
+    font-weight: 500px;
+}
+
+.tienda,
+.ubicacion {
+    color: #707070;
+}
+.precio{
+    color: #707070!important;
+    margin-left: 245px;
+    font-weight: 300;
+}
+.card{
+    border-radius: 40px;
+    font-size: 25px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 66px;
+}
+.card img{
+    width: 100%;
+    padding-top: 51px;
+}
+
+.texto-footer{
+    color: #707070;
+    text-align: center;
+}
+.greenbg-footer{
+    background-color:#28A745;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+.footer img{ 
+    text-align: center;
+    height: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 250px;
+}
